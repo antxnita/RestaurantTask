@@ -1,5 +1,6 @@
 # Early Careers Software Engineering Program: Complete at home Coding Assignment
-For this task I have used Django and Vue to present the restaurant data from the API. Below I have stated the steps to follow to carry out this task.
+For this task I have used Django and Vue to present the restaurant data from the API. 
+I have removed the node modules folder since it was too big to upload. Below I have stated the steps to follow to carry out this task. 
 
 ## Steps to follow:
 
